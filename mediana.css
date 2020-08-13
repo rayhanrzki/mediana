@@ -418,8 +418,6 @@ img{max-width:100%;height:auto}
 .margb-2{margin-bottom:2rem}
 .homecover{background-size:cover;padding:0;color:#fff;margin-bottom:2rem;margin-top:-1.5rem}
 .homecover h1 span,.homecover .lead span{background:rgba(0,0,0,0.6);padding:3px 20px 3px 20px;display:inline-block}
-.mediumnavigation{background:rgba(255,255,255,.97);box-shadow:0 2px 2px -2px rgba(0,0,0,.15);padding:10px;transition:top 0.5s ease-in-out;color:rgba(0,0,0,.5)}
-.admin-bar .mediumnavigation{margin-top:32px}
 .alignright{float:right;margin:0 0 1em 1em}
 .alignleft{float:left;margin:0 1em 1em 0}
 .aligncenter{display:block;margin-left:auto;margin-right:auto}
@@ -485,16 +483,9 @@ span.post-read-more{align-items:center;display:inline-block;float:right;margin-t
 span.post-read-more a{color:rgba(0,0,0,.44)}
 span.post-name a,span.post-read-more a:hover{color:rgba(0,0,0,.8)}
 .dot:after{content:"\00B7";margin-left:3px;margin-right:3px}
-.mediumnavigation .form-control{font-size:0.8rem;border-radius:30px;overflow:hidden;border:1px solid rgba(0,0,0,0.04)}
-.mediumnavigation .form-inline{margin-left:15px}
-.mediumnavigation .form-inline .btn{margin-left:-50px;border:0;border-radius:30px;cursor:pointer}
-.mediumnavigation .form-inline .btn:hover,.mediumnavigation .form-inline .btn:active{background:transparent;color:green}
 nav-border{border-top:1px solid #eee;margin-top:10px}
 .dropdown:hover .dropdown-menu{display:block}
-.mediumnavigation .dropdown-menu{border:0;margin:0;border-radius:0;line-height:30px;padding-top:13px;background:transparent}
 .dropdown-item.active,.dropdown-item:active,.dropdown-item:focus,a.dropdown-item:hover{background-color:#333;color:#fff}
-.mediumnavigation .nav-item,.dropdown-menu{font-size:0.84rem;text-transform:uppercase}
-.mediumnavigation a:hover{text-decoration:none}
 .site-content{min-height:60vh;padding-top:43px;margin-top:73px;transition:all 0.4s}
 .carousel-excerpt{background:rgba(51,51,51,0.38);padding:7% 5%;font-size:30px;max-width:100%}
 .carousel-excerpt .fontlight{font-weight:400;font-size:18px;text-transform:none;margin-top:30px;display:block;line-height:1.6;opacity:0.8}
@@ -630,7 +621,6 @@ p.sharecolour{color:#999999}
 .shareitnow ul li a svg,.shareitnow a{fill:#b3b3b3}
 .shareitnow li a{color:#b3b3b3;border-color:#d2d2d2}
 .carousel-excerpt .fontlight,body{font-size:15px;line-height:1.5;color:#666666}
-.mediumnavigation,.dropdown-menu,.dropdown-item{background-color:rgba(255,255,255,.97)}
 .customarea .btn.follow{border-color:#2ecc71;color:#2ecc71}
 .search-form .search-submit{background-color:#2ecc71}
 .search-form .search-field{border-color:#f9f9f9}
