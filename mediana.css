@@ -395,21 +395,6 @@ li.disabled a{pointer-events:none}
 .bottompagination span.navigation i{display:inline-block}
 .morefromcategory{font-weight:400;font-size:15px;text-decoration:none;margin-top:10px;color:#999}
 .morefromcategory:hover{text-decoration:none}
-.woocommerce .col2-set .col-1,.woocommerce-page .col2-set .col-1,.woocommerce .col2-set .col-2,.woocommerce-page .col2-set .col-2{max-width:100%;padding-left:0;padding-right:0}
-.woocommerce table.shop_table th{background-color:transparent;color:#666}
-.woocommerce form .form-row input.input-text,.woocommerce form .form-row textarea,.woocommerce .woocommerce-ordering select,.woocommerce .search-field{border:1px solid #e2e2e2;padding:8px 10px;border-radius:0}
-.woocommerce .search-field{margin-bottom:10px}
-.woocommerce form .select2-container{border-radius:0}
-.woocommerce h3#order_review_heading{margin-top:1.5rem}
-.woocommerce div.product .product_title{font-size:2rem}
-.woocommerce .related.products h2,.woocommerce .woocommerce-tabs h2{font-size:1.5rem}
-.woocommerce #comments{margin:0}
-#sidebarwoocommerce ul.product-categories{padding-left:0;list-style:none}
-#sidebarwoocommerce aside{margin-bottom:30px;padding:20px;border:1px solid #eee}
-#sidebarwoocommerce h4.widget-title{font-size:14px;margin:-20px;padding:15px 20px;background:#f4f5f6;margin-bottom:15px;text-transform:uppercase}
-#sidebarwoocommerce .star-rating{font-size:10px}
-.archive.woocommerce .page-title{display:none}
-#sidebarwoocommerce span.reviewer{color:#999}
 img.fullimage{margin-left:calc(-50vw+50%);margin-right:calc(-50vw+50%);width:100vw;max-width:none}
 @media (min-width:1024px){.share{position:fixed;display:block}.share ul li{display:block}}
 @media (max-width:999px){.share{display:block}.listfeaturedtag .wrapthumbnail,.listfeaturedtag .col-md-7{width:100%;max-width:100%;-webkit-box-flex:0;-webkit-flex:100%;-ms-flex:100%;flex:100%}.listfeaturedtag .wrapthumbnail{height:250px}.listfeaturedtag .card{height:auto}.listfeaturedtag .wrapfooter{position:relative;margin-top:30px}.listfeaturedtag .card-block{padding:20px}}
@@ -428,12 +413,7 @@ p.sharecolour{color:#999999}
 .comment-form input.submit{background-color:#2ecc71;border-color:#2ecc71}
 footer.footer a{color:#2ecc71}
 .carousel-excerpt .fontlight,body{font-size:15px;line-height:1.5;color:#666666}
-.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-family:"PT Sans",Helvetica,Arial,sans-serif;font-weight:700;color:#111111}
-.carousel-excerpt .title{font-family:"PT Sans",Helvetica,Arial,sans-serif;font-size:30px;font-weight:700;text-transform:none;color:#ffffff}
 .carousel-excerpt .fontlight{font-size:18px;font-weight:400;color:#ffffff}
-.mediumnavigation .navbar-brand{font-family:Merriweather,Georgia,serif;font-size:26px;font-weight:700}
-.navbar-toggleable-md .navbar-collapse{font-family:"PT Sans",Helvetica,Arial,sans-serif;font-weight:400}
-.article-post{font-family:Georgia,Times,"Times New Roman",serif;font-weight:400;line-height:1.8;color:#222222}
 .mediumnavigation,.dropdown-menu,.dropdown-item{background-color:rgba(255,255,255,.97)}
 .mediumnavigation,.mediumnavigation a,.navbar-light .navbar-nav .nav-link{color:#999999}
 .navbar-light .navbar-brand{color:#111111}
@@ -444,10 +424,6 @@ footer.footer a{color:#2ecc71}
 .search-form .search-submit .fa{color:#ffffff}
 .search-form .search-field,.search-form .search-field::placeholder{color:#b2b2b2}
 @media (max-width:767px){.navbar-collapse{background-color:rgba(255,255,255,.97)}}
-@font-face{font-display:swap;font-family:'PT Sans';font-style:normal;font-weight:700;src:local('PT Sans Bold'),local('PTSans-Bold'),url(https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/653cb13e/Mediumish1.woff) format('woff')}
-@font-face{font-display:swap;font-family:'Merriweather';font-style:normal;font-weight:700;src:local('Merriweather Bold'),local('Merriweather-Bold'),url(https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/653cb13e/Mediumish2.woff) format('woff')}
-body{overflow-x:hidden;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
-.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6,table{font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;font-weight:700}
 img{max-width:100%;height:auto}
 .breadcrumbs{margin-bottom:-25px;font-size:11px}
 .breadcrumbs a{color:#111}
@@ -699,12 +675,6 @@ p.sharecolour{color:#999999}
 .shareitnow li a{color:#b3b3b3;border-color:#d2d2d2}
 footer.footer a{color:#2ecc71}
 .carousel-excerpt .fontlight,body{font-size:15px;line-height:1.5;color:#666666}
-.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-family:"PT Sans",Helvetica,Arial,sans-serif;font-weight:700;color:#111111}
-.carousel-excerpt .title{font-family:"PT Sans",Helvetica,Arial,sans-serif;font-size:30px;font-weight:700;text-transform:none;color:#ffffff}
-.carousel-excerpt .fontlight{font-size:18px;font-weight:400;color:#ffffff}
-.mediumnavigation .navbar-brand{font-family:Merriweather,Georgia,serif;font-size:26px;font-weight:700}
-.navbar-toggleable-md .navbar-collapse{font-family:"PT Sans",Helvetica,Arial,sans-serif;font-weight:400}
-.article-post{font-family:Georgia,Times,"Times New Roman",serif;font-weight:400;line-height:1.8;color:#222222}
 .mediumnavigation,.dropdown-menu,.dropdown-item{background-color:rgba(255,255,255,.97)}
 .mediumnavigation,.mediumnavigation a,.navbar-light .navbar-nav .nav-link{color:#999999}
 .navbar-light .navbar-brand{color:#111111}
