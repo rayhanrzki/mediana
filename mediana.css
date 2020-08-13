@@ -191,10 +191,6 @@ section{margin-bottom:10px}
 .section-title h2{border-bottom:1px solid #eee;margin-bottom:25px;font-weight:700;font-size:1.4rem;margin-bottom:27px}
 .section-title span{border-bottom:1px solid rgba(0,0,0,.44);display:inline-block;padding-bottom:20px;margin-bottom:-1px;text-transform:capitalize}
 .section-title span span{padding-bottom:0;border-bottom:0}
-.navbar-light .navbar-nav .nav-link:focus,.navbar-light .navbar-nav .nav-link:hover,.mediumnavigation .navbar-brand:hover,.mediumnavigation .navbar-brand:focus,.mediumnavigation a:hover,.navbar-light .navbar-nav .active>.nav-link,.navbar-light .navbar-nav .nav-link.active,.navbar-light .navbar-nav .nav-link.open,.navbar-light .navbar-nav .open>.nav-link{color:inherit;opacity:0.8}
-@media (min-width:576px){.card-columns.listfeaturedtag{-webkit-column-count:2;-moz-column-count:2;column-count:2}}
-@media (min-width:992px){.navbar-toggleable-sm .navbar-nav .nav-link{padding-right:.7rem;padding-left:.7rem;text-transform:uppercase;font-size:0.80rem;font-weight:600;letter-spacing:0.8px}}
-@media (min-width:768px){.dropdown-item{background:rgba(255,255,255,.97);border-left:1px solid rgba(97,95,95,0.09);border-right:1px solid rgba(97,95,95,0.09);border-bottom:1px solid rgba(97,95,95,0.09);font-size:0.83rem;font-weight:500}}
 .card-columns .card{margin-bottom:20px}
 .skipfirst .grid-item:first-child{display:none}
 .featured-posts .widget{margin-bottom:30px}
@@ -269,8 +265,6 @@ nav-border{border-top:1px solid #eee;margin-top:10px}
 .dropdown-item.active,.dropdown-item:active,.dropdown-item:focus,a.dropdown-item:hover{background-color:#333;color:#fff}
 .mediumnavigation .nav-item,.dropdown-menu{font-size:0.84rem;text-transform:uppercase}
 .mediumnavigation a:hover{text-decoration:none}
-.mediumnavigation .navbar-brand img{max-height:30px;margin-right:5px}
-.nav-up .blog-logo,.nav-up .navbar-brand{opacity:0;transition:all 0.2s}
 .site-content{min-height:60vh;padding-top:43px;margin-top:73px;transition:all 0.4s}
 .carousel-excerpt{background:rgba(51,51,51,0.38);padding:7% 5%;font-size:30px;max-width:100%}
 .carousel-excerpt .fontlight{font-weight:400;font-size:18px;text-transform:none;margin-top:30px;display:block;line-height:1.6;opacity:0.8}
@@ -412,15 +406,11 @@ p.sharecolour{color:#999999}
 .carousel-excerpt .fontlight,body{font-size:15px;line-height:1.5;color:#666666}
 .carousel-excerpt .fontlight{font-size:18px;font-weight:400;color:#ffffff}
 .mediumnavigation,.dropdown-menu,.dropdown-item{background-color:rgba(255,255,255,.97)}
-.mediumnavigation,.mediumnavigation a,.navbar-light .navbar-nav .nav-link{color:#999999}
-.navbar-light .navbar-brand{color:#111111}
-.navbar-light .navbar-brand:hover{color:#2ecc71}
 .customarea .btn.follow{border-color:#2ecc71;color:#2ecc71}
 .search-form .search-submit{background-color:#2ecc71}
 .search-form .search-field{border-color:#f9f9f9}
 .search-form .search-submit .fa{color:#ffffff}
 .search-form .search-field,.search-form .search-field::placeholder{color:#b2b2b2}
-@media (max-width:767px){.navbar-collapse{background-color:rgba(255,255,255,.97)}}
 img{max-width:100%;height:auto}
 .breadcrumbs{margin-bottom:-25px;font-size:11px}
 .breadcrumbs a{color:#111}
@@ -456,9 +446,6 @@ section{margin-bottom:10px}
 .section-title h2{border-bottom:1px solid #eee;margin-bottom:25px;font-weight:700;font-size:1.4rem;margin-bottom:27px}
 .section-title span{border-bottom:1px solid rgba(0,0,0,.44);display:inline-block;padding-bottom:20px;margin-bottom:-1px;text-transform:capitalize}
 .section-title span span{padding-bottom:0;border-bottom:0}
-.navbar-light .navbar-nav .nav-link:focus,.navbar-light .navbar-nav .nav-link:hover,.mediumnavigation .navbar-brand:hover,.mediumnavigation .navbar-brand:focus,.mediumnavigation a:hover,.navbar-light .navbar-nav .active>.nav-link,.navbar-light .navbar-nav .nav-link.active,.navbar-light .navbar-nav .nav-link.open,.navbar-light .navbar-nav .open>.nav-link{color:inherit;opacity:0.8}
-@media (min-width:576px){.card-columns.listfeaturedtag{-webkit-column-count:2;-moz-column-count:2;column-count:2}}
-@media (min-width:992px){.navbar-toggleable-sm .navbar-nav .nav-link{padding-right:.7rem;padding-left:.7rem;text-transform:uppercase;font-size:0.80rem;font-weight:600;letter-spacing:0.8px}}
 .card-columns .card{margin-bottom:20px}
 .skipfirst .grid-item:first-child{display:none}
 .featured-posts .widget{margin-bottom:30px}
@@ -506,16 +493,12 @@ span.post-name a,span.post-read-more a:hover{color:rgba(0,0,0,.8)}
 .mediumnavigation .form-inline{margin-left:15px}
 .mediumnavigation .form-inline .btn{margin-left:-50px;border:0;border-radius:30px;cursor:pointer}
 .mediumnavigation .form-inline .btn:hover,.mediumnavigation .form-inline .btn:active{background:transparent;color:green}
-.navbar{padding:.2rem 1rem}
-.mediumnavigation .navbar-brand{font-weight:700;font-family:Merriweather;font-size:1.6rem;margin-right:0}
 nav-border{border-top:1px solid #eee;margin-top:10px}
 .dropdown:hover .dropdown-menu{display:block}
 .mediumnavigation .dropdown-menu{border:0;margin:0;border-radius:0;line-height:30px;padding-top:13px;background:transparent}
 .dropdown-item.active,.dropdown-item:active,.dropdown-item:focus,a.dropdown-item:hover{background-color:#333;color:#fff}
 .mediumnavigation .nav-item,.dropdown-menu{font-size:0.84rem;text-transform:uppercase}
 .mediumnavigation a:hover{text-decoration:none}
-.mediumnavigation .navbar-brand img{max-height:30px;margin-right:5px}
-.nav-up .blog-logo,.nav-up .navbar-brand{opacity:0;transition:all 0.2s}
 .site-content{min-height:60vh;padding-top:43px;margin-top:73px;transition:all 0.4s}
 .carousel-excerpt{background:rgba(51,51,51,0.38);padding:7% 5%;font-size:30px;max-width:100%}
 .carousel-excerpt .fontlight{font-weight:400;font-size:18px;text-transform:none;margin-top:30px;display:block;line-height:1.6;opacity:0.8}
@@ -667,12 +650,8 @@ p.sharecolour{color:#999999}
 .shareitnow li a{color:#b3b3b3;border-color:#d2d2d2}
 .carousel-excerpt .fontlight,body{font-size:15px;line-height:1.5;color:#666666}
 .mediumnavigation,.dropdown-menu,.dropdown-item{background-color:rgba(255,255,255,.97)}
-.mediumnavigation,.mediumnavigation a,.navbar-light .navbar-nav .nav-link{color:#999999}
-.navbar-light .navbar-brand{color:#111111}
-.navbar-light .navbar-brand:hover{color:#2ecc71}
 .customarea .btn.follow{border-color:#2ecc71;color:#2ecc71}
 .search-form .search-submit{background-color:#2ecc71}
 .search-form .search-field{border-color:#f9f9f9}
 .search-form .search-submit .fa{color:#ffffff}
 .search-form .search-field,.search-form .search-field::placeholder{color:#b2b2b2}
-@media (max-width:767px){.navbar-collapse{background-color:rgba(255,255,255,.97)}}
