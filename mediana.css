@@ -386,6 +386,7 @@ li.disabled a{pointer-events:none}
 img.fullimage{margin-left:calc(-50vw+50%);margin-right:calc(-50vw+50%);width:100vw;max-width:none}
 @media (min-width:1024px){.share{position:fixed;display:block}.share ul li{display:block}}
 @media (max-width:999px){.share{display:block}.listfeaturedtag .wrapthumbnail,.listfeaturedtag .col-md-7{width:100%;max-width:100%;-webkit-box-flex:0;-webkit-flex:100%;-ms-flex:100%;flex:100%}.listfeaturedtag .wrapthumbnail{height:250px}.listfeaturedtag .card{height:auto}.listfeaturedtag .wrapfooter{position:relative;margin-top:30px}.listfeaturedtag .card-block{padding:20px}}
+@media (max-width:991px){.search-form .search-field{width:130px}span.post-read-more{display:none}.card.post .meta-footer-thumb{float:left}.card.post .author-meta{float:left}.listfeaturedtag .nothumbimage{padding:0}header .container{width:100%}}
 @media (min-width:400px) and (max-width:1024px){.container{width:95%;max-width:100%}}
 .btn-simple{background-color:#2ecc71;border-color:#2ecc71}
 .prevnextlinks a,.article-post a,.post .btn.follow,.post .post-top-meta .author-description a,article.page a,.alertbar a{color:#2ecc71}
@@ -609,24 +610,10 @@ li.disabled a{pointer-events:none}
 .bottompagination div.navigation i{display:inline-block}
 .morefromcategory{font-weight:400;font-size:15px;text-decoration:none;margin-top:10px;color:#999}
 .morefromcategory:hover{text-decoration:none}
-.woocommerce .col2-set .col-1,.woocommerce-page .col2-set .col-1,.woocommerce .col2-set .col-2,.woocommerce-page .col2-set .col-2{max-width:100%;padding-left:0;padding-right:0}
-.woocommerce table.shop_table th{background-color:transparent;color:#666}
-.woocommerce form .form-row input.input-text,.woocommerce form .form-row textarea,.woocommerce .woocommerce-ordering select,.woocommerce .search-field{border:1px solid #e2e2e2;padding:8px 10px;border-radius:0}
-.woocommerce .search-field{margin-bottom:10px}
-.woocommerce form .select2-container{border-radius:0}
-.woocommerce h3#order_review_heading{margin-top:1.5rem}
-.woocommerce div.product .product_title{font-size:2rem}
-.woocommerce .related.products h2,.woocommerce .woocommerce-tabs h2{font-size:1.5rem}
-.woocommerce #comments{margin:0}
-#sidebarwoocommerce ul.product-categories{padding-left:0;list-style:none}
-#sidebarwoocommerce aside{margin-bottom:30px;padding:20px;border:1px solid #eee}
-#sidebarwoocommerce h4.widget-title{font-size:14px;margin:-20px;padding:15px 20px;background:#f4f5f6;margin-bottom:15px;text-transform:uppercase}
-#sidebarwoocommerce .star-rating{font-size:10px}
-.archive.woocommerce .page-title{display:none}
-#sidebarwoocommerce span.reviewer{color:#999}
 img.fullimage{margin-left:calc(-50vw+50%);margin-right:calc(-50vw+50%);width:100vw;max-width:none}
 @media (min-width:1024px){.share{position:fixed;display:block}.share ul li{display:block}}
 @media (max-width:999px){.share{display:block}.listfeaturedtag .wrapthumbnail,.listfeaturedtag .col-md-7{width:100%;max-width:100%;-webkit-box-flex:0;-webkit-flex:100%;-ms-flex:100%;flex:100%}.listfeaturedtag .wrapthumbnail{height:250px}.listfeaturedtag .card{height:auto}.listfeaturedtag .wrapfooter{position:relative;margin-top:30px}.listfeaturedtag .card-block{padding:20px}}
+@media (max-width:991px){.search-form .search-field{width:130px}span.post-read-more{display:none}.card.post .meta-footer-thumb{float:left}.card.post .author-meta{float:left}.listfeaturedtag .nothumbimage{padding:0}header .container{width:100%}}
 @media (min-width:400px) and (max-width:1024px){.container{width:95%;max-width:100%}}
 .btn-simple{background-color:#2ecc71;border-color:#2ecc71}
 .prevnextlinks a,.article-post a,.post .btn.follow,.post .post-top-meta .author-description a,article.page a,.alertbar a{color:#2ecc71}
