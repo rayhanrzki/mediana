@@ -1,3 +1,35 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@rayhanrzki 
+rayhanrzki
+/
+mediana
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+1
+Wiki
+Security
+Insights
+Settings
+mediana/mediana.css
+@rayhanrzki
+rayhanrzki Update mediana.css
+Latest commit c1a4c6f 9 minutes ago
+ History
+ 1 contributor
+687 lines (686 sloc)  59 KB
+  
 /*
 Template Name:Affiliates
 Copyright:WowThemes.net,https://www.wowthemes.net
@@ -285,7 +317,6 @@ nav-border{border-top:1px solid #eee;margin-top:10px}
 i.social{display:inline-block;text-align:center;margin:0 0 0 10px;font-size:15px}
 .jumbotron.fortags a{padding:0 10px;background:rgba(34,34,34,0.78);border-radius:30px;color:#fff;font-weight:400;text-transform:lowercase;font-size:0.9rem!important;margin-top:3px;margin-bottom:3px;display:inline-block}
 @media (min-width:768px){.jumbotron.fortags{margin-bottom:-30px;padding:0;height:200px}.jumbotron.fortags .col-md-12{background:rgba(0,0,0,0.75);color:#fff;height:200px;margin-left:0;padding-left:0;padding-top:7.5%}.jumbotron.fortags .row{margin:0}}
-.footer{border-top:1px solid rgba(0,0,0,.05)!important;padding-top:15px;padding-bottom:12px;font-size:0.8rem;color:rgba(0,0,0,.44);margin-top:30px}
 .back-to-top{margin:0;position:fixed;bottom:80px;right:40px;width:40px;height:40px;line-height:40px;text-align:center;border-radius:50%;border:1px solid rgba(0,0,0,.18);z-index:100;display:none;text-decoration:none}
 .back-to-top i{font-size:20px;color:rgba(0,0,0,.3)}
 .link-dark{color:rgba(0,0,0,.8)}
@@ -399,7 +430,6 @@ img.fullimage{margin-left:calc(-50vw+50%);margin-right:calc(-50vw+50%);width:100
 @media (min-width:1024px){.share{position:fixed;display:block}.share ul li{display:block}}
 @media (max-width:999px){.share{display:block}.listfeaturedtag .wrapthumbnail,.listfeaturedtag .col-md-7{width:100%;max-width:100%;-webkit-box-flex:0;-webkit-flex:100%;-ms-flex:100%;flex:100%}.listfeaturedtag .wrapthumbnail{height:250px}.listfeaturedtag .card{height:auto}.listfeaturedtag .wrapfooter{position:relative;margin-top:30px}.listfeaturedtag .card-block{padding:20px}}
 @media (max-width:991px){.search-form .search-field{width:130px}span.post-read-more{display:none}.card.post .meta-footer-thumb{float:left}.card.post .author-meta{float:left}.listfeaturedtag .nothumbimage{padding:0}header .container{width:100%}}
-@media (max-width:767px){.bottompagination span.navigation li,.bottompagination .pagination .page-numbers{padding:0 10px}.carousel-excerpt .title{font-size:15px!important}button.navbar-toggler{background-color:#fff}.post-top-meta .avatar{margin-bottom:15px}.share ul li{display:inline-block}.share{display:none!important}.share-horizontal{display:block}.featured-posts .card.post.highlighted{margin-bottom:20px}.searcharea,.customarea{display:none;text-align:center!important;margin:5px 0}.logoarea{text-align:left!important}.btn-simple{margin-top:1rem;padding:5px 10px;border-radius:8px}.navbar-collapse{padding-top:20px}.navbar-collapse .nav-link{font-weight:600;font-size:14px;padding:10px 20px;border-left:1px solid rgba(97,95,95,0.09);border-right:1px solid rgba(97,95,95,0.09);border-bottom:1px solid rgba(97,95,95,0.09)}.mediumnavigation .dropdown-menu{border:0;box-shadow:none;display:block;padding:0}.navbar-light .navbar-nav .nav-link:hover,.navbar-light .navbar-nav .active>.nav-link,.navbar-light .navbar-nav .nav-link.active{background-color:#333}.dropdown-item{border-left:1px solid rgba(97,95,95,0.09);border-right:1px solid rgba(97,95,95,0.09);border-bottom:1px solid rgba(97,95,95,0.09)}.mediumnavigation{position:relative;min-height:auto}.site-content{margin-top:0!important;padding-top:15px}#main-slider,.forauthor{margin-top:-15px}.prevnextlinks .rightborder{border:0}.prevnextlinks .text-right{text-align:center!important}.prevnextlinks{text-align:center}.prevnextlinks .thepostlink{padding:10px 0}.mainheading h1.posttitle,h1.entry-title{font-size:2rem}.carousel-excerpt{font-size:15px;padding:10% 10%;font-size:17px;letter-spacing:1px;max-width:100%}.navbar-toggler-right{position:absolute;top:-43px;right:0}.mediumnavigation .navbar-brand{font-size:24px}.navbar-toggler{font-size:1.15rem}.alertbar{box-shadow:none;position:relative}footer.footer .pull-left,footer.footer .pull-right{text-align:center;float:none}.alertbar form{margin-top:15px}.article-post{font-size:1rem!important}.admin-bar .mediumnavigation{margin-top:0}html{margin-top:0!important}}
 @media (min-width:400px) and (max-width:1024px){.container{width:95%;max-width:100%}}
 .btn-simple{background-color:#2ecc71;border-color:#2ecc71}
 .prevnextlinks a,.article-post a,.post .btn.follow,.post .post-top-meta .author-description a,article.page a,.alertbar a{color:#2ecc71}
@@ -411,7 +441,6 @@ p.sharecolour{color:#999999}
 .shareitnow li a{color:#b3b3b3;border-color:#d2d2d2}
 #comments a{color:#2ecc71}
 .comment-form input.submit{background-color:#2ecc71;border-color:#2ecc71}
-footer.footer a{color:#2ecc71}
 .carousel-excerpt .fontlight,body{font-size:15px;line-height:1.5;color:#666666}
 .carousel-excerpt .fontlight{font-size:18px;font-weight:400;color:#ffffff}
 .mediumnavigation,.dropdown-menu,.dropdown-item{background-color:rgba(255,255,255,.97)}
@@ -534,9 +563,6 @@ nav-border{border-top:1px solid #eee;margin-top:10px}
 i.social{display:inline-block;text-align:center;margin:0 0 0 10px;font-size:15px}
 .jumbotron.fortags a{padding:0 10px;background:rgba(34,34,34,0.78);border-radius:30px;color:#fff;font-weight:400;text-transform:lowercase;font-size:0.9rem!important;margin-top:3px;margin-bottom:3px;display:inline-block}
 @media (min-width:768px){.jumbotron.fortags{margin-bottom:-30px;padding:0;height:150px}.jumbotron.fortags .col-md-12{background:rgba(0,0,0,0.75);color:#fff;height:150px;margin-left:0;padding-left:0;padding-top:5.6%}.jumbotron.fortags .row{margin:0}}
-.footer{border-top:1px solid rgba(0,0,0,.05)!important;padding-top:15px;padding-bottom:12px;font-size:0.8rem;color:rgba(0,0,0,.44);margin-top:30px}
-.back-to-top{margin:0;position:fixed;bottom:80px;right:15px;width:40px;height:40px;line-height:40px;text-align:center;border-radius:50%;z-index:100;display:none;text-decoration:none;background-color:#2ecc71}
-.back-to-top i{font-size:20px;color:#fff}
 .link-dark{color:rgba(0,0,0,.8)}
 .article-post{font-family:Merriweather;font-size:1.2rem;line-height:1.8;color:rgba(0,0,0,.8)}
 .article-post p,blockquote{margin:0 0 1.5rem 0}
@@ -663,7 +689,6 @@ img.fullimage{margin-left:calc(-50vw+50%);margin-right:calc(-50vw+50%);width:100
 @media (min-width:1024px){.share{position:fixed;display:block}.share ul li{display:block}}
 @media (max-width:999px){.share{display:block}.listfeaturedtag .wrapthumbnail,.listfeaturedtag .col-md-7{width:100%;max-width:100%;-webkit-box-flex:0;-webkit-flex:100%;-ms-flex:100%;flex:100%}.listfeaturedtag .wrapthumbnail{height:250px}.listfeaturedtag .card{height:auto}.listfeaturedtag .wrapfooter{position:relative;margin-top:30px}.listfeaturedtag .card-block{padding:20px}}
 @media (max-width:991px){.search-form .search-field{width:130px}span.post-read-more{display:none}.card.post .meta-footer-thumb{float:left}.card.post .author-meta{float:left}.listfeaturedtag .nothumbimage{padding:0}header .container{width:100%}}
-@media (max-width:767px){.bottompagination div.navigation li,.bottompagination .pagination .page-numbers{padding:0 10px}.carousel-excerpt .title{font-size:15px!important}button.navbar-toggler{background-color:#fff}.post-top-meta .avatar{margin-bottom:15px}.share ul li{display:inline-block}.share{display:none!important}.share-horizontal{display:block}.featured-posts .card.post.highlighted{margin-bottom:20px}.searcharea,.customarea{display:none;text-align:center!important;margin:5px 0}.logoarea{text-align:left!important}.btn-simple{margin-top:1rem;padding:5px 10px}.navbar-collapse{padding-top:20px}.navbar-collapse .nav-link{font-weight:600;font-size:14px;padding:10px 20px;border-left:1px solid rgba(97,95,95,0.09);border-right:1px solid rgba(97,95,95,0.09);border-bottom:1px solid rgba(97,95,95,0.09)}.mediumnavigation .dropdown-menu{border:0;box-shadow:none;display:block;padding:0}.navbar-light .navbar-nav .nav-link:hover,.navbar-light .navbar-nav .active>.nav-link,.navbar-light .navbar-nav .nav-link.active{background-color:#333}.dropdown-item{border-left:1px solid rgba(97,95,95,0.09);border-right:1px solid rgba(97,95,95,0.09);border-bottom:1px solid rgba(97,95,95,0.09)}.mediumnavigation{position:relative;min-height:auto}.site-content{margin-top:0!important;padding-top:15px}#main-slider,.forauthor{margin-top:-15px}.prevnextlinks .rightborder{border:0}.prevnextlinks .text-right{text-align:center!important}.prevnextlinks{text-align:center}.prevnextlinks .thepostlink{padding:10px 0}.mainheading h1.posttitle,h1.entry-title{font-size:2rem}.carousel-excerpt{font-size:15px;padding:10% 10%;font-size:17px;letter-spacing:1px;max-width:100%}.navbar-toggler-right{position:absolute;top:-43px;right:0}.mediumnavigation .navbar-brand{font-size:24px}.navbar-toggler{font-size:1.15rem}.alertbar{box-shadow:none;position:relative}footer.footer .pull-left,footer.footer .pull-right{text-align:center;float:none}.alertbar form{margin-top:15px}.article-post{font-size:1rem!important}.admin-bar .mediumnavigation{margin-top:0}html{margin-top:0!important}}
 @media (min-width:400px) and (max-width:1024px){.container{width:95%;max-width:100%}}
 .btn-simple{background-color:#2ecc71;border-color:#2ecc71}
 .prevnextlinks a,.article-post a,.post .btn.follow,.post .post-top-meta .author-description a,article.page a,.alertbar a{color:#2ecc71}
@@ -673,7 +698,6 @@ blockquote{border-color:#2ecc71}
 p.sharecolour{color:#999999}
 .shareitnow ul li a svg,.shareitnow a{fill:#b3b3b3}
 .shareitnow li a{color:#b3b3b3;border-color:#d2d2d2}
-footer.footer a{color:#2ecc71}
 .carousel-excerpt .fontlight,body{font-size:15px;line-height:1.5;color:#666666}
 .mediumnavigation,.dropdown-menu,.dropdown-item{background-color:rgba(255,255,255,.97)}
 .mediumnavigation,.mediumnavigation a,.navbar-light .navbar-nav .nav-link{color:#999999}
