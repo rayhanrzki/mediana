@@ -210,10 +210,6 @@ section{margin-bottom:10px}
 .row.listrecent{margin-bottom:5px}
 .masonrygrid.row.listrecent{margin-right:-10px;margin-left:-10px}
 .listrecent .wrapfooter{font-size:13px;margin-top:30px}
-.card.post.highlighted .thumbimage{background-position:50% 50%;background-size:cover;height:260px}
-.card.post.authorpost .thumbimage{background-position:50% 50%;background-size:cover;height:180px}
-.card.post.height262 .thumbimage{background-position:50% 50%;background-size:cover;height:100px}
-.card.post{margin-bottom:20px}
 .font400{font-weight:400}
 .padlr10{padding-left:10px;padding-right:10px}
 .padr10{padding-right:10px}
@@ -249,7 +245,6 @@ span.post-name,span.post-date,span.author-meta{display:inline-block}
 span.post-date,span.post-read,span.readingtime{color:rgba(0,0,0,.54)}
 span.post-name{text-transform:capitalize}
 span.post-read-more{align-items:center;display:inline-block;float:right;margin-top:12px}
-.card.post.authorpost span.post-read-more{margin-top:0}
 span.post-read-more a{color:rgba(0,0,0,.44)}
 span.post-name a,span.post-read-more a:hover{color:rgba(0,0,0,.8)}
 .dot:after{content:"\00B7";margin-left:3px;margin-right:3px}
@@ -391,7 +386,6 @@ li.disabled a{pointer-events:none}
 img.fullimage{margin-left:calc(-50vw+50%);margin-right:calc(-50vw+50%);width:100vw;max-width:none}
 @media (min-width:1024px){.share{position:fixed;display:block}.share ul li{display:block}}
 @media (max-width:999px){.share{display:block}.listfeaturedtag .wrapthumbnail,.listfeaturedtag .col-md-7{width:100%;max-width:100%;-webkit-box-flex:0;-webkit-flex:100%;-ms-flex:100%;flex:100%}.listfeaturedtag .wrapthumbnail{height:250px}.listfeaturedtag .card{height:auto}.listfeaturedtag .wrapfooter{position:relative;margin-top:30px}.listfeaturedtag .card-block{padding:20px}}
-@media (max-width:991px){.search-form .search-field{width:130px}span.post-read-more{display:none}.card.post .meta-footer-thumb{float:left}.card.post .author-meta{float:left}.listfeaturedtag .nothumbimage{padding:0}header .container{width:100%}}
 @media (min-width:400px) and (max-width:1024px){.container{width:95%;max-width:100%}}
 .btn-simple{background-color:#2ecc71;border-color:#2ecc71}
 .prevnextlinks a,.article-post a,.post .btn.follow,.post .post-top-meta .author-description a,article.page a,.alertbar a{color:#2ecc71}
@@ -465,10 +459,6 @@ section{margin-bottom:10px}
 .row.listrecent{margin-bottom:5px}
 .masonrygrid.row.listrecent{margin-right:-10px;margin-left:-10px}
 .listrecent .wrapfooter{font-size:13px;margin-top:30px}
-.card.post.highlighted .thumbimage{background-position:50% 50%;background-size:cover;height:260px}
-.card.post.authorpost .thumbimage{background-position:50% 50%;background-size:cover;height:180px}
-.card.post.height262 .thumbimage{background-position:50% 50%;background-size:cover;height:100px}
-.card.post{margin-bottom:20px}
 .font400{font-weight:400}
 .padlr10{padding-left:10px;padding-right:10px}
 .padr10{padding-right:10px}
@@ -485,7 +475,6 @@ span.post-name,span.post-date,span.author-meta{display:inline-block}
 span.post-date,span.post-read,span.readingtime{color:rgba(0,0,0,.54)}
 span.post-name{text-transform:capitalize}
 span.post-read-more{align-items:center;display:inline-block;float:right;margin-top:12px}
-.card.post.authorpost span.post-read-more{margin-top:0}
 span.post-read-more a{color:rgba(0,0,0,.44)}
 span.post-name a,span.post-read-more a:hover{color:rgba(0,0,0,.8)}
 .dot:after{content:"\00B7";margin-left:3px;margin-right:3px}
@@ -638,7 +627,6 @@ li.disabled a{pointer-events:none}
 img.fullimage{margin-left:calc(-50vw+50%);margin-right:calc(-50vw+50%);width:100vw;max-width:none}
 @media (min-width:1024px){.share{position:fixed;display:block}.share ul li{display:block}}
 @media (max-width:999px){.share{display:block}.listfeaturedtag .wrapthumbnail,.listfeaturedtag .col-md-7{width:100%;max-width:100%;-webkit-box-flex:0;-webkit-flex:100%;-ms-flex:100%;flex:100%}.listfeaturedtag .wrapthumbnail{height:250px}.listfeaturedtag .card{height:auto}.listfeaturedtag .wrapfooter{position:relative;margin-top:30px}.listfeaturedtag .card-block{padding:20px}}
-@media (max-width:991px){.search-form .search-field{width:130px}span.post-read-more{display:none}.card.post .meta-footer-thumb{float:left}.card.post .author-meta{float:left}.listfeaturedtag .nothumbimage{padding:0}header .container{width:100%}}
 @media (min-width:400px) and (max-width:1024px){.container{width:95%;max-width:100%}}
 .btn-simple{background-color:#2ecc71;border-color:#2ecc71}
 .prevnextlinks a,.article-post a,.post .btn.follow,.post .post-top-meta .author-description a,article.page a,.alertbar a{color:#2ecc71}
