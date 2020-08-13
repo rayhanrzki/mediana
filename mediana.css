@@ -210,6 +210,10 @@ section{margin-bottom:10px}
 .row.listrecent{margin-bottom:5px}
 .masonrygrid.row.listrecent{margin-right:-10px;margin-left:-10px}
 .listrecent .wrapfooter{font-size:13px;margin-top:30px}
+.card.post.highlighted .thumbimage{background-position:50% 50%;background-size:cover;height:260px}
+.card.post.authorpost .thumbimage{background-position:50% 50%;background-size:cover;height:180px}
+.card.post.height262 .thumbimage{background-position:50% 50%;background-size:cover;height:100px}
+.card.post{margin-bottom:20px}
 .font400{font-weight:400}
 .padlr10{padding-left:10px;padding-right:10px}
 .padr10{padding-right:10px}
@@ -460,6 +464,8 @@ section{margin-bottom:10px}
 .row.listrecent{margin-bottom:5px}
 .masonrygrid.row.listrecent{margin-right:-10px;margin-left:-10px}
 .listrecent .wrapfooter{font-size:13px;margin-top:30px}
+.card.post.highlighted .thumbimage{background-position:50% 50%;background-size:cover;height:260px}
+.card.post.authorpost .thumbimage{background-position:50% 50%;background-size:cover;height:180px}
 .font400{font-weight:400}
 .padlr10{padding-left:10px;padding-right:10px}
 .padr10{padding-right:10px}
